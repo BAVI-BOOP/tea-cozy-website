@@ -1,5 +1,5 @@
 ## Tea-Store Application Website
-<h3 align="center">Visualization of the Website</h3>
+<h3 align="center">Screenshot</h3>
 <br>
 <p align="center">
 <img src="tea-cozy.gif" alt="my website" width="590" height="350">
