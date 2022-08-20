@@ -2,7 +2,7 @@
 <h3 align="center">Screenshot</h3>
 <br>
 <p align="center">
-<img src="tea-cozy.gif" alt="my website" width="590" height="350">
+<a href="https://bavi-boop.github.io/clipboard-landing-page-website/"><img src="tea-cozy.gif" alt="screenshot" width="590" height="350"></a>
 </p>
 <hr>
 <b>Check The Live Website ➡️</b> <a href="https://bavi-boop.github.io/tea-cozy-website/">Live Website</a>
